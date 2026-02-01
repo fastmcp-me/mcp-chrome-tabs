@@ -1,3 +1,10 @@
+[![Add to Cursor](https://fastmcp.me/badges/cursor_dark.svg)](https://fastmcp.me/MCP/Details/1774/pokutunamcp-chrome-tabs)
+[![Add to VS Code](https://fastmcp.me/badges/vscode_dark.svg)](https://fastmcp.me/MCP/Details/1774/pokutunamcp-chrome-tabs)
+[![Add to Claude](https://fastmcp.me/badges/claude_dark.svg)](https://fastmcp.me/MCP/Details/1774/pokutunamcp-chrome-tabs)
+[![Add to ChatGPT](https://fastmcp.me/badges/chatgpt_dark.svg)](https://fastmcp.me/MCP/Details/1774/pokutunamcp-chrome-tabs)
+[![Add to Codex](https://fastmcp.me/badges/codex_dark.svg)](https://fastmcp.me/MCP/Details/1774/pokutunamcp-chrome-tabs)
+[![Add to Gemini](https://fastmcp.me/badges/gemini_dark.svg)](https://fastmcp.me/MCP/Details/1774/pokutunamcp-chrome-tabs)
+
 # @pokutuna/mcp-chrome-tabs
 
 [![npm version](https://badge.fury.io/js/@pokutuna%2Fmcp-chrome-tabs.svg)](https://badge.fury.io/js/@pokutuna%2Fmcp-chrome-tabs)
